@@ -16,7 +16,7 @@
 </a>
 &ensp;
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&" alt="war100ck"" />
 </a>
   </center>
 
