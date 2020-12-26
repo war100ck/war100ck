@@ -7,7 +7,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=dark" alt="war100ck" /></a>
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=war100cken&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
