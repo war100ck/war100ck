@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github!</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck" alt="war100ck" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck" alt="war100ck" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en" alt="war100ck" /></p>
 
