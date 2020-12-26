@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm war100ck</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> 👋, I'm war100ck</h1>
 <h3 align="center">Welcome to my Github!</h3>
 
 
