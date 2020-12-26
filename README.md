@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/43/ff/3d/43ff3de23a2e7f94e7cefd8fbe1604a2.gif" width="62">, I'm war100ck</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/43/ff/3d/43ff3de23a2e7f94e7cefd8fbe1604a2.gif" width="82">, I'm war100ck</h1>
 <h3 align="center">Welcome to my Github!</h3>
 
 
