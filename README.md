@@ -3,11 +3,10 @@
 
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<center>
   <img src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark" />
 </a>
 &ensp;
-<a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=dark" />
 </a>
   </center>
