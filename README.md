@@ -8,7 +8,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en&theme=onedark" alt="war100ck" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=onedark&hide_border=false" alt="war100ck" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=onedark&hide_border=true" alt="war100ck" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&show_icons=true&locale=en&layout=compact&theme=onedark" alt="war100ck" /></p>
 
