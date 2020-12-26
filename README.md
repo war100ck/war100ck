@@ -10,5 +10,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=onedark&hide_border=false" alt="war100ck" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=onedark" alt="war100ck" /><img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=64/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=onedark" alt="war100ck" /><img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=64/></p>
 
