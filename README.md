@@ -8,5 +8,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&" alt="war100ck" /></p>
 
-<center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck" alt="war100ck" /></a> </center>
+<h3 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck" alt="war100ck" /></a> </h3>
 
