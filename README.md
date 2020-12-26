@@ -12,11 +12,11 @@
 
    <center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=dark" alt="war100ck" />
 </a>
 &ensp;
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&" alt="war100ck"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark" alt="war100ck" />
 </a>
   </center>
 
