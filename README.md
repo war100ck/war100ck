@@ -12,5 +12,5 @@
      </a>
    &ensp; 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&show_icons=true&locale=en&layout=compact&theme=dark" alt="war100ck" />
-<h1 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck" alt="war100ck" /></a> </h1>
+<align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck" alt="war100ck" /></a>
 
