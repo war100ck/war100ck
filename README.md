@@ -19,9 +19,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark" alt="war100ck" />
      </a>
    &ensp; 
-   
-   
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark" alt="war100ck" />
-     </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&show_icons=true&locale=en&layout=compact&theme=dark" alt="war100ck" />
 
