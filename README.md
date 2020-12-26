@@ -9,7 +9,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark" alt="war100ck" /></a>
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&show_icons=true&locale=en&layout=compact&theme=dark" alt="war100ck" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&langs_count=8&theme=omni" />
+</a>
 </center>
 <h3 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=dark" alt="war100ck" /></a></h3>
 
