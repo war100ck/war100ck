@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=war100ck-ma&theme=onedark)](https://github.com/war100ck/github-profile-trophy)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=10&rank=SABCCC" alt="war100ck" /></a><img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=54/> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=10&rank=S A B CCC" alt="war100ck" /></a><img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=54/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en&theme=onedark&hide_border=false" alt="war100ck" /></p>
 
