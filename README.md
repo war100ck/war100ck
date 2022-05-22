@@ -1,9 +1,8 @@
  <!-- markdownlint-disable MD033 MD041-->
 <h1 align="center"><img src="https://i.pinimg.com/originals/43/ff/3d/43ff3de23a2e7f94e7cefd8fbe1604a2.gif" width="82">, I'm WAR1OOCK</h1>
-<h3 align="center">Welcome to my Github!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!&size=25&color=F70000&font=Fira%20Code&center=true&width=480&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!&size=25&color=1366F7font=Fira%20Code&center=true&width=480&height=70">
 </p>          
            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=war100ck&label=Profile%20views&color=0e75b6&style=flat" alt="war100ck" /> </p>
