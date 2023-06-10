@@ -9,7 +9,7 @@
 
 ## 📈 Stats
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=8&column=8&no-bg=true&no-frame=true" alt="war100ck" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=9&column=8&no-bg=true&no-frame=true" alt="war100ck" /> </p>
+<p align="center"> <img src="[https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=9&column=8&no-bg=true&no-frame=true](https://github-profile-trophy.vercel.app/?username=rwar100ck-ma&theme=onedark )" alt="war100ck" /> </p>
 <!-- 
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=war100ck&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
