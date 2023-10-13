@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=war100ck&label=Profile%20views&color=0e75b6&style=flat" alt="war100ck" /> </p>
 
 ## 📈 Stats
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=&column=9&no-bg=true&no-frame=true" alt="war100ck" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=&column=8&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&no-bg=true&no-frame=true" alt="war100ck" /> </p>
 <!-- 
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=war100ck&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
