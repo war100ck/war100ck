@@ -3,12 +3,11 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/war100ck" target="_blank">WAR100CK</a> 
 <img src="https://raw.githubusercontent.com/war100ck/war100ck/main/img/Hi.gif" height="32"/></h1>
-<img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=84/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!&size=25&color=1366F7font=Fira%20Code&center=true&width=480&height=70">
 </p>          
-           
+ <p align="right"><img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=84/> </p>         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=war100ck&label=Profile%20views&color=0e75b6&style=flat" alt="war100ck" /> </p>
 
 ## 📈 Stats
