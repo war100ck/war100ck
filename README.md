@@ -1,5 +1,9 @@
  <!-- markdownlint-disable MD033 MD041-->
-<h1 align="center"><img src="https://i.pinimg.com/originals/43/ff/3d/43ff3de23a2e7f94e7cefd8fbe1604a2.gif" width="82">, I'm WAR1OOCK</h1>
+ <!-- <h1 align="center"><img src="https://i.pinimg.com/originals/43/ff/3d/43ff3de23a2e7f94e7cefd8fbe1604a2.gif" width="82">, I'm WAR1OOCK</h1>-->
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/war100ck" target="_blank">WAR100CK</a> 
+<img src="https://raw.githubusercontent.com/war100ck/war100ck/main/img/Hi.gif" height="32"/></h1>
+<img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=84/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!&size=25&color=1366F7font=Fira%20Code&center=true&width=480&height=70">
