@@ -31,9 +31,9 @@
 
 ### Используемые библиотеки и инструменты:
 
-[![Requests](https://img.shields.io/badge/Requests-005F40?style=for-the-badge&logo=requests&logoColor=white)](https://requests.readthedocs.io/en/master/)
-[![Pillow](https://img.shields.io/badge/Pillow-A24142?style=for-the-badge&logo=python&logoColor=white)](https://python-pillow.org/)
-[![PyInstaller](https://img.shields.io/badge/PyInstaller-F7931E?style=for-the-badge&logo=python&logoColor=white)](https://pyinstaller.org/)
+[![Requests](https://img.shields.io/badge/Requests-005F40?style=plastic&logo=requests&logoColor=white)](https://requests.readthedocs.io/en/master/)
+[![Pillow](https://img.shields.io/badge/Pillow-A24142?style=plastic&logo=python&logoColor=white)](https://python-pillow.org/)
+[![PyInstaller](https://img.shields.io/badge/PyInstaller-F7931E?style=plastic&logo=python&logoColor=white)](https://pyinstaller.org/)
 
 ### Интересы:
 
