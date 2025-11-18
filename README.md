@@ -1,7 +1,8 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-<div align="center">
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=200&text=WAR100CK&desc=Python+%7C+JavaScript+%7C+Game+Tools&fontSize=70&fontColor=ffffff&descSize=20&descAlign=60&descColor=333333" />
 
 </div>
