@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![WAR100CK](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=80&lines=WAR100CK;Automation+Engineer;Python+%7C+JavaScript+%7C+Game+Tools)](https://github.com/war100ck)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:0078D6,50:106EBE,100:005A9E&height=200&text=WAR100CK&desc=Python+%7C+JavaScript+%7C+Game+Tools&fontSize=50&fontColor=ffffff&descSize=20&descAlign=60&cache_breaker=1" />
 
 </div>
 
