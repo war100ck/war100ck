@@ -63,18 +63,6 @@
 
 <div align="center">
 
-## 📈 Recent Activity
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=war100ck&theme=github-dark&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 </div>
