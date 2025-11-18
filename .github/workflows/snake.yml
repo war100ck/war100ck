@@ -14,13 +14,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Generate snake
+      - name: Generate light snake
         uses: Platane/snk@v3
         with:
           github_user_name: war100ck
           outputs: |
             dist/github-contribution-grid-snake.svg
+            
+      - name: Generate dark snake  
+        uses: Platane/snk@v3
+        with:
+          github_user_name: war100ck
+          outputs: |
             dist/github-contribution-grid-snake-dark.svg
+          svg_out_options: "color_snake=0d1117&color_dots=39d353&color_dots_max=26a641&color_dots_min=39d353"
             
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
