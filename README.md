@@ -103,11 +103,13 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🌍 Visitor Locations
+## 🌍 Visitors
 
 <div align="center">
 
-![Visitor Map](https://api.visitorbadge.io/api/combined?username=war100ck&label=Visitors&labelColor=%230078D6&countColor=%23106EBE&style=for-the-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=war100ck.war100ck&style=for-the-badge&color=0078D6)
+
+**Thanks for visiting!** ✨
 
 </div>
 
