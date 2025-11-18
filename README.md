@@ -105,11 +105,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake Dark](https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake.svg?color_snake=0d1117&color_dots=39d353)
 
 </div>
 
