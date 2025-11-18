@@ -103,9 +103,13 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<div align="center">
+## 🎯 Currently Working On
 
-![Snake Dark](https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake-dark.svg)
+<!-- GitHub Readme Stack -->
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=blade-soul-game-launcher&show_owner=true)](https://github.com/war100ck/blade-soul-game-launcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BnS-Api-Server&show_owner=true)](https://github.com/war100ck/BnS-Api-Server)
 
 </div>
 
