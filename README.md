@@ -103,11 +103,11 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity (Last Year)
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=github-dark&hide_border=true&area=true&custom_title=Last%20Year%20Activity&bg_color=0d1117&color=0078d6&line=0078d6&point=0078d6&area_color=0078d6)
 
 </div>
 
