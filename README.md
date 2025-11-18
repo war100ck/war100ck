@@ -15,6 +15,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=blueviolet&style=for-the-badge)](https://github.com/war100ck)
 [![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=followers)
 
+### Статистика профиля:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/war100ck)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=dark&hide_border=true)](https://github.com/war100ck)
+
 ### Основные технологии:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
