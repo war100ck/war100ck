@@ -6,13 +6,6 @@
 
 </div>
 
-<div align="center">
-
-# 👋 Hello, I'm WAR100CK!
-
-<img src="https://raw.githubusercontent.com/war100ck/war100ck/main/img/Hi.gif" height="40"/>
-
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Python%2C+JavaScript+Developer;Game+Tools+Creator&size=20&color=0078D6&font=Fira+Code&center=true&width=480&height=50">
