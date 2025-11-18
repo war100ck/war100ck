@@ -9,169 +9,134 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Python%2C+JavaScript+Developer;Creator+of+Game+Tools&size=20&color=1366F7&font=Fira%20Code&center=true&width=480&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Python%2C+JavaScript+Developer;Game+Tools+Creator&size=20&color=9933CC&font=Fira%20Code&center=true&width=480&height=50">
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1366F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Currently+working+on+game+tools;Exploring+web+APIs;Automating+the+everyday)](https://github.com/war100ck)
-
-</div>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=blueviolet&style=for-the-badge)](https://github.com/war100ck)
-[![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-30+-blue?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=9933CC&style=for-the-badge)](https://github.com/war100ck)
+[![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github&color=9933CC)](https://github.com/war100ck?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-30+-blueviolet?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=repositories)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🛠️ Мой Технологический Стек:
-
-</div>
+## 🛠️ Технологический стек
 
 <div align="center">
 
+### 🎯 Основные языки:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+
+### 🌐 Веб-технологии:
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+### 🗄️ Базы данных:
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+### 🔧 Инструменты:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-
-</div>
-
-<div align="center">
-
-### 📚 Базы данных и API:
-
-</div>
-
-<div align="center">
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server/)
-[![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/)
-[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-4A9CD4?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
+[![Requests](https://img.shields.io/badge/Requests-005F40?style=for-the-badge&logo=requests&logoColor=white)](https://requests.readthedocs.io/)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🎮 Мои Основные Направления:
-
-</div>
+## 🎮 Направления разработки
 
 <div align="center">
 
-[![B&S Game Launchers](https://img.shields.io/badge/B%26S_Game-Launchers-9933CC?style=for-the-badge&logo=gamejolt)](https://github.com/war100ck?tab=repositories&q=launcher&type=source)
-[![Game APIs](https://img.shields.io/badge/Game_APIs-Server_Development-0077B5?style=for-the-badge&logo=swagger)](https://github.com/war100ck?tab=repositories&q=api&type=source)
-[![Desktop Apps](https://img.shields.io/badge/Desktop-Electron_Apps-47848F?style=for-the-badge&logo=electron)](https://github.com/war100ck?tab=repositories&q=electron&type=source)
-[![System Tools](https://img.shields.io/badge/System-Automation_Tools-0078D6?style=for-the-badge&logo=windows)](https://github.com/war100ck?tab=repositories&q=tool&type=source)
-
-</div>
-
-<div align="center">
-
-### 🔧 Утилиты и Инструменты:
-
-</div>
-
-<div align="center">
-
-[![Data Management](https://img.shields.io/badge/Data-DB_Tools-4479A1?style=for-the-badge&logo=database)](https://github.com/war100ck?tab=repositories&q=data&type=source)
-[![Crypt Tools](https://img.shields.io/badge/Security-Crypt_Tools-4A154B?style=for-the-badge&logo=key)](https://github.com/war100ck?tab=repositories&q=crypt&type=source)
-[![Web Installers](https://img.shields.io/badge/Web-Installers-FF6C37?style=for-the-badge&logo=webpack)](https://github.com/war100ck?tab=repositories&q=web&type=source)
-[![Scripts](https://img.shields.io/badge/Automation-Scripts-5391FE?style=for-the-badge&logo=powershell)](https://github.com/war100ck?tab=repositories&q=script&type=source)
+[![Game Launchers](https://img.shields.io/badge/🎮_Game_Launchers-Blade_&_Soul-9933CC?style=for-the-badge&logo=gamejolt)](https://github.com/war100ck?tab=repositories&q=launcher&type=source)
+[![Private Servers](https://img.shields.io/badge/🛡️_Private_Servers-B%26S_Development-8A2BE2?style=for-the-badge&logo=serverless)](https://github.com/war100ck?tab=repositories&q=server&type=source)
+[![Web APIs](https://img.shields.io/badge/🌐_Web_APIs-RESTful_Services-0077B5?style=for-the-badge&logo=swagger)](https://github.com/war100ck?tab=repositories&q=api&type=source)
+[![Desktop Apps](https://img.shields.io/badge/💻_Desktop_Apps-Electron/Tkinter-0078D6?style=for-the-badge&logo=windows)](https://github.com/war100ck?tab=repositories&q=electron&type=source)
+[![Automation Tools](https://img.shields.io/badge/⚡_Automation-PowerShell/Python-FF6B35?style=for-the-badge&logo=robotframework)](https://github.com/war100ck?tab=repositories&q=script&type=source)
 
 </div>
 
 ---
 
+## 📈 Статистика GitHub
+
 <div align="center">
 
-## 📊 Статистика GitHub
+### 📊 Общая статистика:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff&icon_color=9933cc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff&icon_color=9933cc" />
+
+### 🔥 Активность:
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&locale=en&theme=radical&hide_border=true&background=0D1117&ring=9933CC&fire=9933CC&currStreakLabel=9933CC" />
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en&theme=onedark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=onedark&hide_border=true&langs_count=8&count_private=true&hide=html,css" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&locale=en&theme=onedark&hide_border=true&fire=9933CC&currStreakNum=FFFFFF" />
-</div>
-
-<div align="center">
+---
 
 ## 🏆 Достижения GitHub
 
-</div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Избранные Проекты
-
-</div>
-
-<div align="center">
-
-[![Blade & Soul Game Launcher](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=blade-soul-game-launcher&theme=onedark&hide_border=true&show_owner=true)](https://github.com/war100ck/blade-soul-game-launcher)
-[![BNS Server Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BNS-Server-Manager&theme=onedark&hide_border=true&show_owner=true)](https://github.com/war100ck/BNS-Server-Manager)
-[![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Account-Manager&theme=onedark&hide_border=true&show_owner=true)](https://github.com/war100ck/Steam-Account-Manager)
-[![DSN Crypt Tool](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=DSN-Crypt-Tool&theme=onedark&hide_border=true&show_owner=true)](https://github.com/war100ck/DSN-Crypt-Tool)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Stars,Commit,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
 
 ---
 
+## 🌟 Избранные проекты
+
 <div align="center">
 
-## 💫 Обо Мне
+### 🎮 Игровые проекты:
+[![Blade & Soul Launcher](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=blade-soul-game-launcher&theme=radical&hide_border=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff)](https://github.com/war100ck/blade-soul-game-launcher)
+[![BNS Server Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BNS-Server-Manager&theme=radical&hide_border=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff)](https://github.com/war100ck/BNS-Server-Manager)
+
+### 🌐 Веб-приложения:
+[![BNS API Server](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BnS-Api-Server&theme=radical&hide_border=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff)](https://github.com/war100ck/BnS-Api-Server)
+[![BNS Store Web](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=bns-store-web-2017&theme=radical&hide_border=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff)](https://github.com/war100ck/bns-store-web-2017)
+
+### 🔧 Утилиты:
+[![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Account-Manager&theme=radical&hide_border=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff)](https://github.com/war100ck/Steam-Account-Manager)
+[![DSN Crypt Tool](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=DSN-Crypt-Tool&theme=radical&hide_border=true&bg_color=30,0d1117,9933cc&title_color=fff&text_color=fff)](https://github.com/war100ck/DSN-Crypt-Tool)
+
+</div>
+
+---
+
+## 💡 Обо мне
+
+<div align="center">
+
+🎯 **Автоматизация и эффективность** - мой главный принцип в разработке  
+🛠️ Создаю инструменты для упрощения сложных задач  
+🎮 Специализируюсь на разработке для игровой индустрии (Blade & Soul)  
+🌐 Разрабатываю веб-API и десктопные приложения  
+⚡ Предпочитаю чистый код, надежность и производительность
+
+</div>
+
+---
+
+## 📫 Связь и сотрудничество
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/war100ck)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Projects](https://img.shields.io/badge/🚀_Explore_Projects-30+-blueviolet?style=for-the-badge)](https://github.com/war100ck?tab=repositories)
+
+**Открыт для сотрудничества и интересных проектов!** ✨
 
 </div>
 
 <div align="center">
 
-**Automation Engineer & Game Tools Developer** с фокусом на создании эффективных решений для автоматизации и игровой индустрии. Специализируюсь на разработке лаунчеров, серверных API и десктопных приложений.
-
-**Основные интересы:**
-- 🎮 Разработка игровых инструментов (Blade & Soul)
-- 🤖 Автоматизация процессов
-- 🖥️ Создание десктопных приложений на Electron
-- 🔧 Системные утилиты и скрипты
-- 🌐 Веб-API и серверная разработка
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9933CC&height=100&section=footer" />
 
 </div>
-
-<div align="center">
-
-## 🚀 Технологические Принципы
-
-</div>
-
-<div align="center">
-
-```python
-def my_development_philosophy():
-    return {
-        "code_quality": "Clean and maintainable",
-        "automation": "Simplify repetitive tasks", 
-        "user_experience": "Intuitive interfaces",
-        "performance": "Efficient and reliable",
-        "documentation": "Clear and comprehensive"
-    }
