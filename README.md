@@ -103,15 +103,6 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🌍 Visitors
-
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=war100ck.war100ck&style=for-the-badge&color=0078D6)
-
-**Thanks for visiting!** ✨
-
-</div>
 
 ## 🌟 Featured Projects
 
