@@ -56,7 +56,7 @@
 [![API Development](https://img.shields.io/badge/API-Web%20%26%20Server-0077B5?style=for-the-badge&logo=swagger)](https://github.com/war100ck?tab=repositories&q=api&type=source)
 [![System Mods](https://img.shields.io/badge/Windows-System%20Mods-0078D6?style=for-the-badge&logo=windows)](https://github.com/war100ck?tab=repositories&q=windows&type=source)
 [![Blade & Soul](https://img.shields.io/badge/Blade%20%26%20Soul-Game%20Dev-9933CC?style=for-the-badge&logo=gamejolt)](https://bns.gameforge.com/)
-[![Blade & Soul](https://img.shields.io/static/v1?label=Blade%20%26%20Soul&message=Game%20Dev&color=9933CC&style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fwar100ck%2Fwar100ck.github.io%2Frefs%2Fheads%2Fmaster%2Fimg%2Fblade-and-soul-icon.png&logoColor=white)](https://bns.gameforge.com/)
+[![Blade & Soul Game Dev](https://img.shields.io/badge/Blade_&_Soul-Game_Dev-9933CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDIyQzE3LjUyMiAyMiAyMiAxNy41MjIgMjIgMTJDMjIgNi40Nzc5IDE3LjUyMiAyIDEyIDJDNi40Nzc5IDIgMiA2LjQ3NzkgMiAxMkMyIDE3LjUyMiA2LjQ3NzkgMjIgMTIgMjJaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTIgMTcuNUMxNS4wMzc2IDE3LjUgMTcuNSAxNS4wMzc2IDE3LjUgMTJDMTcuNSA4Ljk2MjQzIDE1LjAzNzYgNi41IDEyIDYuNUM4Ljk2MjQzIDYuNSA2LjUgOC45NjI0MyA2LjUgMTJDNi41IDE1LjAzNzYgOC45MjU3NiAxNy41IDEyIDE3LjVaIiBmaWxsPSIjOTkzM0NDIi8+CjxwYXRoIGQ9Ik0xMiAxNC41QzEzLjM4MDcgMTQuNSAxNC41IDEzLjM4MDcgMTQuNSAxMkMxNC41IDEwLjYxOTMgMTMuMzgwNyA5LjUgMTIgOS41QzEwLjYxOTMgOS41IDkuNSAxMC42MTkzIDkuNSAxMkM5LjUgMTMuMzgwNyAxMC42MTkzIDE0LjUgMTIgMTQuNVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://bns.gameforge.com/)
 
 </div>
 
