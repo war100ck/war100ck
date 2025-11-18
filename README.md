@@ -29,6 +29,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
+### Используемые библиотеки и инструменты:
+
+[![Requests](https://img.shields.io/badge/Requests-005F40?style=for-the-badge&logo=requests&logoColor=white)](https://requests.readthedocs.io/en/master/)
+[![Pillow](https://img.shields.io/badge/Pillow-A24142?style=for-the-badge&logo=python&logoColor=white)](https://python-pillow.org/)
+[![PyInstaller](https://img.shields.io/badge/PyInstaller-F7931E?style=for-the-badge&logo=python&logoColor=white)](https://pyinstaller.org/)
+
 ### Интересы:
 
 [![Game Development](https://img.shields.io/badge/Game%20Dev-Tools%20%26%20Launchers-9933CC?style=for-the-badge&logo=gamejolt)](https://github.com/war100ck?tab=repositories&q=bns&type=source)
