@@ -103,9 +103,9 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+<div align="center">
 
-![Snake Game](https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake.svg)
+![Snake Dark](https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
