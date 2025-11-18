@@ -116,7 +116,7 @@
 [![BNS API Server 2017](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Server-Api-BnS-2017&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Server-Api-BnS-2017)
 
 ### 🔧 Utility Applications:
-[![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Account-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Steam-Account-Manager)
+[![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Acocunt-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Steam-Account-Manager)
 [![BNS Client Packer](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=bns-client-packer&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/bns-client-packer)
 
 </div>
@@ -146,10 +146,44 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Explore_My_Work-black?style=for-the-badge&logo=github)](https://github.com/war100ck)
 [![View Projects](https://img.shields.io/badge/🚀_View_All_Projects-30+-0078D6?style=for-the-badge)](https://github.com/war100ck?tab=repositories)
 
+**Open for collaboration and interesting projects!** ✨
+
 </div>
+
+---
+
+## 🎨 Footer Options (Choose One)
 
 <div align="center">
 
+### Option 1: Wave Capsule (Current)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=100&section=footer" />
+
+### Option 2: Wave Capsule with Text
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&text=Thanks+for+visiting!&height=100&section=footer&fontSize=30&fontColor=ffffff" />
+
+### Option 3: Gradient Wave Capsule
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:0078D6,50:106EBE,100:005A9E&height=100&section=footer" />
+
+### Option 4: Gradient Wave with Text
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:0078D6,50:106EBE,100:005A9E&text=Thanks+for+visiting+my+profile!&height=120&section=footer&fontSize=30&fontColor=ffffff" />
+
+### Option 5: Soft Capsule
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0078D6&height=100&section=footer" />
+
+### Option 6: Transparent Capsule
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0078D6&height=100&section=footer" />
+
+### Option 7: Animated Lines
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+### Option 8: Simple Divider
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### Option 9: Geometric Pattern
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/banner.png" />
+
+### Option 10: Wave SVG
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" />
 
 </div>
