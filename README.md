@@ -105,7 +105,7 @@
 
 <div align="center">
 
-![Snake Dark](https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake-dark.svg)
+![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
