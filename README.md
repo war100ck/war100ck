@@ -10,6 +10,26 @@
  <p align="right"><img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=84/> </p>         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=war100ck&label=Profile%20views&color=0e75b6&style=flat" alt="war100ck" /> </p>
 
+<div align="center">
+
+[![war100ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark)](https://github.com/war100ck)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=dark)](https://github.com/war100ck)
+
+</div>
+
+<div align="center">
+
+### Языки программирования:
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+
+</div>
+
 ## 📈 Stats
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=&column=8&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&no-bg=true&no-frame=true" alt="war100ck" /> </p>
 <!-- 
