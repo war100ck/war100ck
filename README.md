@@ -1,21 +1,31 @@
- <!-- markdownlint-disable MD033 MD041-->
- <!-- <h1 align="center"><img src="https://i.pinimg.com/originals/43/ff/3d/43ff3de23a2e7f94e7cefd8fbe1604a2.gif" width="82">, I'm WAR1OOCK</h1>-->
+<!-- markdownlint-disable MD033 MD041 -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/war100ck" target="_blank">WAR100CK</a> 
-<img src="https://raw.githubusercontent.com/war100ck/war100ck/main/img/Hi.gif" height="32"/></h1>
+<div align="center">
+
+# 👋 Hi, I'm WAR100CK!
+
+<img src="https://raw.githubusercontent.com/war100ck/war100ck/main/img/Hi.gif" height="40"/>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!&size=25&color=1366F7font=Fira%20Code&center=true&width=480&height=70">
-</p>          
- <p align="right"><img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=84/> </p>         
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=war100ck&label=Profile%20views&color=0e75b6&style=flat" alt="war100ck" /> </p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+creating...&size=20&color=1366F7&font=Fira%20Code&center=true&width=480&height=50">
+</p>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=blueviolet&style=for-the-badge)](https://github.com/war100ck)
 [![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=followers)
 
-### Основные технологии:
+</div>
+
+<div align="center">
+
+### 🛠️ Languages & Technologies:
+
+</div>
+
+<div align="center">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
@@ -24,7 +34,15 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
-### Интересы:
+</div>
+
+<div align="center">
+
+### 🔭 Interests & Focus:
+
+</div>
+
+<div align="center">
 
 [![Game Development](https://img.shields.io/badge/Game%20Dev-Tools%20%26%20Launchers-9933CC?style=for-the-badge&logo=gamejolt)](https://github.com/war100ck?tab=repositories&q=bns&type=source)
 [![API Development](https://img.shields.io/badge/API-Server%20%26%20Web-0077B5?style=for-the-badge&logo=swagger)](https://github.com/war100ck?tab=repositories&q=api&type=source)
@@ -32,20 +50,31 @@
 
 </div>
 
-## 📈 Stats
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=&column=8&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&no-bg=true&no-frame=true" alt="war100ck" /> </p>
-<!-- 
-<p align="left">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=war100ck&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  <img alig src="https://github-profile-trophy.vercel.app/?username=rwar100ck-ma&theme=onedark />
-</p>
--->
+---
+
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=ru&theme=onedark&hide_border=true" alt="war100ck" />
-<!--<img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=84/>--></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&locale=ru&theme=onedark&hide_border=true" alt="war100ck" />
-<!--<img src="https://ic.pics.livejournal.com/tanjand/44781189/9446548/9446548_original.gif" height=104/>--></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=ru&show_icons=true&layout=compact&theme=onedark&hide_border=true" alt="war100ck" /></p>
- </div>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=ru&theme=onedark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=ru&show_icons=true&layout=compact&theme=onedark&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&locale=ru&theme=onedark&hide_border=true" />
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<!-- <p align="right"><img src="https://sophieswebsitehome.files.wordpress.com/2018/09/giphy.gif" height=84/> </p> -->
