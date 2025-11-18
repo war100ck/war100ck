@@ -112,12 +112,12 @@
 [![BNS Server Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BNS-Server-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/BNS-Server-Manager)
 
 ### 🌐 API Servers:
-[![BNS API Server 2020](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Server-Api-BnS-2020&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Server-Api-BnS-2020)
+[![BNS API Server](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BnS-Api-Server&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/BnS-Api-Server)
 [![BNS API Server 2017](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Server-Api-BnS-2017&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Server-Api-BnS-2017)
 
 ### 🔧 Utility Applications:
 [![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Account-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Steam-Account-Manager)
-[![DSN Crypt Tool](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=DSN-Crypt-Tool&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/DSN-Crypt-Tool)
+[![BNS Client Packer](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=bns-client-packer&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/bns-client-packer)
 
 </div>
 
@@ -145,8 +145,6 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Explore_My_Work-black?style=for-the-badge&logo=github)](https://github.com/war100ck)
 [![View Projects](https://img.shields.io/badge/🚀_View_All_Projects-30+-0078D6?style=for-the-badge)](https://github.com/war100ck?tab=repositories)
-
-**Open for collaboration and interesting projects!** ✨
 
 </div>
 
