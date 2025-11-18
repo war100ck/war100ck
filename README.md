@@ -158,10 +158,6 @@
 
 </div>
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:005A9E&text=Keep+Coding+🚀&height=130&section=footer&fontSize=30&fontColor=ffffff" style="transform: rotate(180deg);" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&text=🚀+Keep+Coding&height=120&section=footer&fontSize=25&fontColor=ffffff" style="transform: scaleY(-1);" />
 </div>
