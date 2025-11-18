@@ -15,11 +15,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=blueviolet&style=for-the-badge)](https://github.com/war100ck)
 [![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=followers)
 
-### Статистика профиля:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/war100ck)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=dark&hide_border=true)](https://github.com/war100ck)
-
 ### Основные технологии:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,12 +23,6 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-
-### Используемые библиотеки и инструменты:
-
-[![Requests](https://img.shields.io/badge/Requests-005F40?style=plastic&logo=requests&logoColor=white)](https://requests.readthedocs.io/en/master/)
-[![Pillow](https://img.shields.io/badge/Pillow-A24142?style=plastic&logo=python&logoColor=white)](https://python-pillow.org/)
-[![PyInstaller](https://img.shields.io/badge/PyInstaller-F7931E?style=plastic&logo=python&logoColor=white)](https://pyinstaller.org/)
 
 ### Интересы:
 
