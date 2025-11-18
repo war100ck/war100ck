@@ -157,7 +157,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:005A9E&text=Keep+Coding+🚀&height=130&section=footer&fontSize=30&fontColor=ffffff" />
 
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&text=🚀+Keep+Coding&height=120&section=footer&fontSize=25&fontColor=ffffff" style="transform: scaleY(-1);" />
-</div>
