@@ -157,3 +157,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:005A9E&text=Keep+Coding+🚀&height=130&section=footer&fontSize=30&fontColor=ffffff" />
 
 </div>
+
+
+<!-- markdownlint-disable MD033 MD041 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:0078D6,50:106EBE,100:005A9E&height=200&text=Automation+Engineer&desc=Python+%7C+JavaScript+%7C+Game+Tools&animation=scaleIn&fontSize=50&fontColor=ffffff&descSize=20&descAlign=60" />
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Python+Developer;JavaScript+Enthusiast;Game+Tools+Creator&size=20&color=0078D6&font=Fira+Code&center=true&width=480&height=50">
+</p>
