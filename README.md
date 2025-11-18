@@ -84,7 +84,7 @@
 ## 🏆 Достижения GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Stars,Commit,Repositories,PullRequest,Issues,Followers" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
