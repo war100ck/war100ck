@@ -12,13 +12,6 @@
 
 <div align="center">
 
-[![war100ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=dark)](https://github.com/war100ck)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=dark)](https://github.com/war100ck)
-
-</div>
-
-<div align="center">
-
 ### Языки программирования:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
