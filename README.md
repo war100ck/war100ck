@@ -103,15 +103,13 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🎯 Technical Skills
+## 😄 Random Dev Joke
 
-```mermaid
-radar-beta
-  title My Tech Stack
-  axis python["Python"], js["JavaScript"], ps["PowerShell"], web["Web Dev"], db["Databases"], tools["Tools"]
-  
-  curve mySkills["My Skills"]{5, 4, 4, 3, 3, 5}
-  max ideal["Target"]{5, 5, 5, 5, 5, 5}
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=0d1117)
+
+</div>
 
 ## 🌟 Featured Projects
 
