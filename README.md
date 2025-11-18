@@ -12,7 +12,10 @@
 
 <div align="center">
 
-### Языки программирования:
+[![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=blueviolet&style=for-the-badge)](https://github.com/war100ck)
+[![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=followers)
+
+### Основные технологии:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
@@ -20,6 +23,12 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+
+### Интересы:
+
+[![Game Development](https://img.shields.io/badge/Game%20Dev-Tools%20%26%20Launchers-9933CC?style=for-the-badge&logo=gamejolt)](https://github.com/war100ck?tab=repositories&q=bns&type=source)
+[![API Development](https://img.shields.io/badge/API-Server%20%26%20Web-0077B5?style=for-the-badge&logo=swagger)](https://github.com/war100ck?tab=repositories&q=api&type=source)
+[![Windows](https://img.shields.io/badge/Windows-System%20Mods-0078D6?style=for-the-badge&logo=windows)](https://github.com/war100ck?tab=repositories&q=windows&type=source)
 
 </div>
 
