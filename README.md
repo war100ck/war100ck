@@ -14,6 +14,12 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1366F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Currently+working+on+game+tools;Exploring+web+APIs;Automating+the+everyday)](https://github.com/war100ck)
+
+</div>
+
+<div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=blueviolet&style=for-the-badge)](https://github.com/war100ck)
 [![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=followers)
 
@@ -49,7 +55,20 @@
 [![Game Tools](https://img.shields.io/badge/Game%20Tools-Blade%20%26%20Soul%20Launchers-9933CC?style=for-the-badge&logo=gamejolt)](https://github.com/war100ck?tab=repositories&q=bns&type=source)
 [![API Development](https://img.shields.io/badge/API-Web%20%26%20Server-0077B5?style=for-the-badge&logo=swagger)](https://github.com/war100ck?tab=repositories&q=api&type=source)
 [![System Mods](https://img.shields.io/badge/Windows-System%20Mods-0078D6?style=for-the-badge&logo=windows)](https://github.com/war100ck?tab=repositories&q=windows&type=source)
+[![Blade & Soul](https://img.shields.io/badge/Blade%20%26%20Soul-Game%20Dev-9933CC?style=for-the-badge&logo=gamejolt)](https://bns.gameforge.com/)
 
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Recent Activity
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=war100ck&theme=github-dark&hide_border=true" />
 </div>
 
 ---
