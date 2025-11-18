@@ -98,8 +98,8 @@
 [![BNS Server Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BNS-Server-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/BNS-Server-Manager)
 
 ### 🌐 Веб-приложения:
-[![BNS API Server](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BnS-Api-Server&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/BnS-Api-Server)
-[![BNS Store Web](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=bns-store-web-2017&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/bns-store-web-2017)
+[![Server-Api-BnS-2020](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BnS-Api-Server&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/BnS-Api-Server)
+[![Server-Api-BnS-2017](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=bns-store-web-2017&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Server-Api-BnS-2017)
 
 ### 🔧 Утилиты:
 [![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Account-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff)](https://github.com/war100ck/Steam-Account-Manager)
