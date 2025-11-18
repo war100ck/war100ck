@@ -150,10 +150,10 @@
 
 </div>
 
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:0078D6,50:106EBE,100:005A9E&text=Keep+Coding+🚀&height=130&section=footer&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:005A9E&text=Keep+Coding+🚀&height=130&section=footer&fontSize=30&fontColor=ffffff" />
 
 </div>
-
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
