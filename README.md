@@ -2,14 +2,14 @@
 
 <div align="center">
 
-# 👋 Привет, я WAR100CK!
+# 👋 Hi, I'm WAR100CK!
 
 <img src="https://raw.githubusercontent.com/war100ck/war100ck/main/img/Hi.gif" height="40"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Инженер+по+автоматизации;Разработчик+на+Python%2C+JavaScript;Создатель+инструментов+для+игр&size=20&color=1366F7&font=Fira%20Code&center=true&width=480&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Python%2C+JavaScript+Developer;Creator+of+Game+Tools&size=20&color=1366F7&font=Fira%20Code&center=true&width=480&height=50">
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### 🧰 Языки и технологии:
+### 🧰 Languages & Technologies:
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-### 🔭 Что я создаю:
+### 🔭 What I Create:
 
 </div>
 
@@ -54,22 +54,22 @@
 
 <div align="center">
 
-## 📊 Статистика GitHub
+## 📊 GitHub Stats
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=ru&theme=onedark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=ru&show_icons=true&layout=compact&theme=onedark&hide_border=true&langs_count=6&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en&theme=onedark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=onedark&hide_border=true&langs_count=6&count_private=true" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&locale=ru&theme=onedark&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&locale=en&theme=onedark&hide_border=true" />
 </div>
 
 <div align="center">
 
-## 🏆 Достижения на GitHub
+## 🏆 GitHub Trophies
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-## 🌟 Избранные репозитории
+## 🌟 Featured Repositories
 
 </div>
 
@@ -93,13 +93,13 @@
 
 <div align="center">
 
-## 💬 Обо мне
+## 💬 About Me
 
 </div>
 
 <div align="center">
 
-Я увлекаюсь автоматизацией процессов и созданием удобных инструментов. Мой фокус — это разработка скриптов и приложений, которые упрощают сложные задачи, особенно в сфере игр (Blade & Soul) и веб-разработки. Я ценю чистый код, эффективность и надёжность.
+I'm passionate about automation and creating efficient tools. My focus is on developing scripts and applications that simplify complex tasks, particularly in the gaming sector (Blade & Soul) and web development. I value clean code, efficiency, and reliability.
 
 </div>
 
