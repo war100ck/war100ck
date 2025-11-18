@@ -21,7 +21,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-green.svg?color_snake=0d1117&color_dots=39d353
             
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
