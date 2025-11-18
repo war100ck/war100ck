@@ -2,13 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=200&text=WAR100CK&desc=Python+%7C+JavaScript+%7C+Game+Tools&fontSize=70&fontColor=ffffff&descSize=20&descAlign=60&descColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:0078D6,50:106EBE,100:005A9E&height=200&text=WAR100CK&desc=Python+%7C+JavaScript+%7C+Game+Tools&fontSize=70&fontColor=ffffff&descSize=20&descAlign=60" />
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Python%2C+JavaScript+Developer;Game+Tools+Creator&size=20&color=0078D6&font=Fira+Code&center=true&width=480&height=50">
-</p>
 
 <div align="center">
 
