@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:42A5F5,50:2196F3,100:1976D2&height=200&text=WAR100CK&desc=Automation+Engineer+%7C+Game+Tools&animation=scaleIn&fontSize=70&fontColor=ffffff&descSize=20&descAlign=60&cache_breaker=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:4FC3F7,50:29B6F6,100:0288D1&height=200&text=WAR100CK&desc=Python+%7C+JavaScript+%7C+Game+Tools&animation=scaleIn&fontSize=50&fontColor=ffffff&descSize=20&descAlign=60" />
 
 </div>
 
