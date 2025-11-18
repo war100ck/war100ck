@@ -14,14 +14,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Generate snake.svg
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: war100ck
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-octicon
             
-      - name: Deploy to output branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
