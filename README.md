@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:4FC3F7,50:29B6F6,100:0288D1&height=200&text=WAR100CK&desc=Python+%7C+JavaScript+%7C+Game+Tools&animation=scaleIn&fontSize=50&fontColor=ffffff&descSize=20&descAlign=60" />
+
+</div>
+
+<div align="center">
+
 # 👋 Hello, I'm WAR100CK!
 
 <img src="https://raw.githubusercontent.com/war100ck/war100ck/main/img/Hi.gif" height="40"/>
@@ -161,11 +167,6 @@
 
 <div align="center">
 
-### ⚡ WAR100CK 🚀
-#### *Automation Engineer | Game Tools Developer*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:4FC3F7,50:29B6F6,100:0288D1&height=200&text=Automation+Engineer&desc=Python+%7C+JavaScript+%7C+Game+Tools&animation=scaleIn&fontSize=50&fontColor=ffffff&descSize=20&descAlign=60" />
 
 </div>
