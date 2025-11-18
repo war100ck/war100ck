@@ -33,6 +33,8 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 [![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-4A9CD4?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
+[![Requests](https://img.shields.io/badge/Requests-005F40?style=for-the-badge&logo=requests&logoColor=white)](https://requests.readthedocs.io/en/master/)
 
 </div>
 
@@ -100,6 +102,18 @@
 <div align="center">
 
 I'm passionate about automation and creating efficient tools. My focus is on developing scripts and applications that simplify complex tasks, particularly in the gaming sector (Blade & Soul) and web development. I value clean code, efficiency, and reliability.
+
+</div>
+
+<div align="center">
+
+## 🤝 Open for Collaboration
+
+</div>
+
+<div align="center">
+
+Feel free to explore my projects, contribute, or reach out if you have interesting ideas!
 
 </div>
 
