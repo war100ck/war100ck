@@ -16,7 +16,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=0078D6&style=for-the-badge)](https://github.com/war100ck)
 [![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github&color=0078D6)](https://github.com/war100ck?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public_Repositories-30+-0078D6?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repositories-50+-0078D6?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=repositories)
 
 </div>
 
@@ -145,7 +145,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/war100ck)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![Projects](https://img.shields.io/badge/🚀_Explore_Projects-30+-0078D6?style=for-the-badge)](https://github.com/war100ck?tab=repositories)
+[![Projects](https://img.shields.io/badge/🚀_Explore_Projects-50+-0078D6?style=for-the-badge)](https://github.com/war100ck?tab=repositories)
 
 </div>
 
