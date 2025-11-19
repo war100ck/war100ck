@@ -160,6 +160,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0078D6&text=WAR100CK%20&reversal=true&section=footer&textBg=false&animation=scaleIn&desc=Python+%7C+JavaScript+%7C+Game+Tools&descAlign=60&descAlignY=81&fontColor=000000&stroke=ffffff&fontAlignY=63&strokeWidth=1&descSize=20&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0078D6&text=WAR100CK%20&reversal=true&section=footer&textBg=false&animation=scaleIn&desc=Python+%7C+JavaScript+%7C+Game+Tools&descAlign=60&descAlignY=81&fontColor=000000&stroke=ffffff&fontAlignY=61&strokeWidth=1&descSize=20&fontSize=70" />
 
 </div>
