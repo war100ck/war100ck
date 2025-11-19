@@ -85,7 +85,7 @@
 
 ### 📈 Profile Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en&theme=default&hide_border=true&hide=prs&count_private=false&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&icon_color=0078D6&card_width=400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=false&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&icon_color=0078D6&exclude_repo=war100ck.github.io&card_width=400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=false&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&icon_color=0078D6&exclude_repo=war100ck.github.io&card_width=450" />
 
 ### 🔥 Contribution Streak:
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=github-dark&hide_border=true&background=30,0d1117,0078d6&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
