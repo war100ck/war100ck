@@ -88,7 +88,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=false&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&icon_color=0078D6&exclude_repo=war100ck.github.io" />
 
 ### 🔥 Contribution Streak:
-<img height="180em" src="https://streak-stats.demolab.com/?user=war100ck&theme=blueberry&hide_border=true&background=0D1117&ring=0078D6&fire=0078D6&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=github-dark&hide_border=true&background=30,0d1117,0078d6&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+
 </div>
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
