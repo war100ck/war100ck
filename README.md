@@ -89,11 +89,11 @@
 
 </div>
 
-## 😄 Random Dev Joke
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=0d1117&textColor=ffffff&qColor=0078D6&aColor=106EBE)
+![Snake animation](https://github.com/war100ck/war100ck/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
