@@ -89,11 +89,11 @@
 
 </div>
 
-## 🗓️ GitHub Contributions
+## 🏅 GitHub Milestones
 
 <div align="center">
 
-<img src="https://github-contributions.vercel.app/api?username=war100ck&theme=github_dark&show_icons=true&hide_border=true" />
+![Achievements](https://github-profile-trophy.vercel.app/?username=war100ck&theme=gruvbox&no-bg=true&no-frame=true&margin-w=5&row=1&column=6)
 
 </div>
 
