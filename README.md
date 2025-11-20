@@ -89,14 +89,6 @@
 
 </div>
 
-## ⚡ 3D Contributions
-
-<div align="center">
-
-<img src="https://3d-contributions.vercel.app/api/?username=war100ck&color=0078D6" width="800" />
-
-</div>
-
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 GitHub Achievements
