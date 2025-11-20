@@ -87,6 +87,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&locale=en&theme=default&hide_border=true&hide=prs&count_private=false&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&icon_color=0078D6" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=war100ck&locale=en&show_icons=true&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=false&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&icon_color=0078D6&exclude_repo=war100ck.github.io" />
 
+## 📅 Contribution Graph
+
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=war100ck&bg_color=0d1117&color=0078d6&line=0078d6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
