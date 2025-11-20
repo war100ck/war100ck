@@ -97,7 +97,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=war100ck&theme=gruvbox&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://achievement-api.vercel.app/api?username=war100ck&theme=dark" alt="Achievements" />
 </div>
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
