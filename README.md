@@ -89,14 +89,6 @@
 
 </div>
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-[![Metrics](https://github.com/war100ck/war100ck/blob/main/github-metrics.svg)](https://github.com/war100ck)
-
-</div>
-
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 GitHub Achievements
