@@ -150,7 +150,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:005A9E&text=Keep+Coding+🚀&height=130&section=footer&fontSize=30&fontColor=000000&stroke=ffffff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:005A9E&text=Keep+Coding+🚀&height=130&section=footer&fontSize=35&fontColor=000000&stroke=ffffff&strokeWidth=1" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=200&text=WAR100CK%20&animation=scaleIn&desc=Python+%7C+JavaScript+%7C+Game+Tools&descAlign=60&descAlignY=50&fontColor=000000&stroke=ffffff&fontAlignY=30&strokeWidth=1&descSize=20&fontSize=70" />
 
 </div>
