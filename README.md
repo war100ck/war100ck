@@ -89,14 +89,11 @@
 
 </div>
 
-## ⚡ Tech Stack Animation
+## 😄 Random Dev Joke
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=0d1117)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=0d1117&textColor=ffffff&qColor=0078D6&aColor=106EBE)
 
 </div>
 
