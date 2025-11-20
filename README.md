@@ -93,7 +93,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/war100ck/war100ck/blob/output/github-contribution-grid-snake.svg)
+![Snake Dark](https://raw.githubusercontent.com/war100ck/war100ck/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
