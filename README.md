@@ -89,11 +89,11 @@
 
 </div>
 
-## 📅 Contribution Graph
+## 📊 GitHub Metrics
 
 <div align="center">
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=war100ck&bg_color=0d1117&color=0078d6&line=0078d6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Metrics](https://github.com/war100ck/war100ck/blob/main/github-metrics.svg)](https://github.com/war100ck)
 
 </div>
 
