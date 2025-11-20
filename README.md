@@ -89,14 +89,6 @@
 
 </div>
 
-## 🏅 GitHub Milestones
-
-<div align="center">
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=war100ck&theme=gruvbox&no-bg=true&no-frame=true&margin-w=5&row=1&column=6)
-
-</div>
-
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 GitHub Achievements
