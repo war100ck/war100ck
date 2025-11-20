@@ -97,7 +97,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=war100ck&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=8" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=war100ck&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=8&title=FFFFFF&title_bg=0078D6&icon=0078D6&text_bg=106EBE&number_bg=005A9E" alt="GitHub Trophies" />
 </div>
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
