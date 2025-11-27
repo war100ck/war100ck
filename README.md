@@ -6,15 +6,13 @@
 
 </div>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Python%2C+JavaScript+Developer;Game+Tools+Creator&size=20&color=0078D6&font=Fira+Code&center=true&width=480&height=50">
 </p>
 
 <div align="center">
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=war100ck.war100ck&style=for-the-badge&color=0078D6)](https://github.com/war100ck)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=0078D6&style=for-the-badge)](https://github.com/war100ck)
 [![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github&color=0078D6)](https://github.com/war100ck?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public_Repositories-50+-0078D6?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=repositories)
 
