@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=war100ck.profile&style=for-the-badge&color=0078D6)](https://github.com/war100ck)
+[![Profile Views](https://komarev.com/ghpvc/?username=war100ck&color=0078D6&style=for-the-badge)](https://github.com/war100ck)
 [![GitHub followers](https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github&color=0078D6)](https://github.com/war100ck?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public_Repositories-50+-0078D6?style=for-the-badge&logo=github)](https://github.com/war100ck?tab=repositories)
 
