@@ -105,16 +105,16 @@
 <div align="center">
 
 ### 🎮 Private Server Tools:
-[![Blade & Soul Launcher](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=blade-soul-game-launcher&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/blade-soul-game-launcher)
-[![BNS Server Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BNS-Server-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/BNS-Server-Manager)
+[![Blade & Soul Launcher](https://raw.githubusercontent.com/war100ck/war100ck/main/assets/cards/card1.svg)](https://github.com/war100ck/blade-soul-game-launcher)
+[![BNS Server Manager](https://raw.githubusercontent.com/war100ck/war100ck/main/assets/cards/card2.svg)](https://github.com/war100ck/BNS-Server-Manager)
 
 ### 🌐 API Servers:
-[![BNS API Server](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BnS-Api-Server&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/BnS-Api-Server)
-[![BNS API Server 2017](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Server-Api-BnS-2017&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/Server-Api-BnS-2017)
+[![BNS API Server](https://raw.githubusercontent.com/war100ck/war100ck/main/assets/cards/card3.svg)](https://github.com/war100ck/BnS-Api-Server)
+[![BNS API Server 2017](https://raw.githubusercontent.com/war100ck/war100ck/main/assets/cards/card4.svg)](https://github.com/war100ck/Server-Api-BnS-2017)
 
 ### 🔧 Utility Applications:
-[![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Account-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/Steam-Account-Manager)
-[![BNS Client Packer](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=bns-client-packer&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=10)](https://github.com/war100ck/bns-client-packer)
+[![Steam Account Manager](https://raw.githubusercontent.com/war100ck/war100ck/main/assets/cards/card5.svg)](https://github.com/war100ck/Steam-Account-Manager)
+[![BNS Client Packer](https://raw.githubusercontent.com/war100ck/war100ck/main/assets/cards/card6.svg)](https://github.com/war100ck/bns-client-packer)
 
 </div>
 
