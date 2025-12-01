@@ -104,111 +104,16 @@
 <div align="center">
 
 ### 🎮 Private Server Tools:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://github.com/war100ck/blade-soul-game-launcher" style="text-decoration: none; color: inherit;">
-    <div style="width: 400px; background: linear-gradient(135deg, #0d1117 0%, #0078D6 100%); border-radius: 10px; padding: 16px; border: 2px solid #30363d; color: white; transition: transform 0.2s, border-color 0.2s;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <svg style="width: 20px; height: 20px; margin-right: 10px; fill: white;" viewBox="0 0 16 16" version="1.1">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-        </svg>
-        <strong style="font-size: 16px;">war100ck / blade-soul-game-launcher</strong>
-      </div>
-      <p style="margin: 0; font-size: 14px; opacity: 0.9;">🎮 Game launcher for Blade & Soul private servers</p>
-      <div style="margin-top: 10px; font-size: 12px; opacity: 0.7;">
-        <span>Python • Tkinter • Game Tools</span>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/war100ck/BNS-Server-Manager" style="text-decoration: none; color: inherit;">
-    <div style="width: 400px; background: linear-gradient(135deg, #0d1117 0%, #0078D6 100%); border-radius: 10px; padding: 16px; border: 2px solid #30363d; color: white; transition: transform 0.2s, border-color 0.2s;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <svg style="width: 20px; height: 20px; margin-right: 10px; fill: white;" viewBox="0 0 16 16" version="1.1">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-        </svg>
-        <strong style="font-size: 16px;">war100ck / BNS-Server-Manager</strong>
-      </div>
-      <p style="margin: 0; font-size: 14px; opacity: 0.9;">🛡️ Server management tools for BNS private servers</p>
-      <div style="margin-top: 10px; font-size: 12px; opacity: 0.7;">
-        <span>C# • .NET • Server Tools</span>
-      </div>
-    </div>
-  </a>
-</div>
+[![Blade & Soul Launcher](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=blade-soul-game-launcher&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/blade-soul-game-launcher)
+[![BNS Server Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BNS-Server-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/BNS-Server-Manager)
 
 ### 🌐 API Servers:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://github.com/war100ck/BnS-Api-Server" style="text-decoration: none; color: inherit;">
-    <div style="width: 400px; background: linear-gradient(135deg, #0d1117 0%, #0078D6 100%); border-radius: 10px; padding: 16px; border: 2px solid #30363d; color: white; transition: transform 0.2s, border-color 0.2s;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <svg style="width: 20px; height: 20px; margin-right: 10px; fill: white;" viewBox="0 0 16 16" version="1.1">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-        </svg>
-        <strong style="font-size: 16px;">war100ck / BnS-Api-Server</strong>
-      </div>
-      <p style="margin: 0; font-size: 14px; opacity: 0.9;">🌐 API server for Blade & Soul private servers</p>
-      <div style="margin-top: 10px; font-size: 12px; opacity: 0.7;">
-        <span>Node.js • Express • MongoDB</span>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/war100ck/Server-Api-BnS-2017" style="text-decoration: none; color: inherit;">
-    <div style="width: 400px; background: linear-gradient(135deg, #0d1117 0%, #0078D6 100%); border-radius: 10px; padding: 16px; border: 2px solid #30363d; color: white; transition: transform 0.2s, border-color 0.2s;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <svg style="width: 20px; height: 20px; margin-right: 10px; fill: white;" viewBox="0 0 16 16" version="1.1">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-        </svg>
-        <strong style="font-size: 16px;">war100ck / Server-Api-BnS-2017</strong>
-      </div>
-      <p style="margin: 0; font-size: 14px; opacity: 0.9;">📡 API server for 2017 BNS client version</p>
-      <div style="margin-top: 10px; font-size: 12px; opacity: 0.7;">
-        <span>REST API • Web Services</span>
-      </div>
-    </div>
-  </a>
-</div>
+[![BNS API Server](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=BnS-Api-Server&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/BnS-Api-Server)
+[![BNS API Server 2017](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Server-Api-BnS-2017&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/Server-Api-BnS-2017)
 
 ### 🔧 Utility Applications:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://github.com/war100ck/Steam-Account-Manager" style="text-decoration: none; color: inherit;">
-    <div style="width: 400px; background: linear-gradient(135deg, #0d1117 0%, #0078D6 100%); border-radius: 10px; padding: 16px; border: 2px solid #30363d; color: white; transition: transform 0.2s, border-color 0.2s;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <svg style="width: 20px; height: 20px; margin-right: 10px; fill: white;" viewBox="0 0 16 16" version="1.1">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-        </svg>
-        <strong style="font-size: 16px;">war100ck / Steam-Account-Manager</strong>
-      </div>
-      <p style="margin: 0; font-size: 14px; opacity: 0.9;">💻 Steam account switching and management tool</p>
-      <div style="margin-top: 10px; font-size: 12px; opacity: 0.7;">
-        <span>Electron • JavaScript • Desktop App</span>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/war100ck/bns-client-packer" style="text-decoration: none; color: inherit;">
-    <div style="width: 400px; background: linear-gradient(135deg, #0d1117 0%, #0078D6 100%); border-radius: 10px; padding: 16px; border: 2px solid #30363d; color: white; transition: transform 0.2s, border-color 0.2s;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <svg style="width: 20px; height: 20px; margin-right: 10px; fill: white;" viewBox="0 0 16 16" version="1.1">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-        </svg>
-        <strong style="font-size: 16px;">war100ck / bns-client-packer</strong>
-      </div>
-      <p style="margin: 0; font-size: 14px; opacity: 0.9;">📦 Client packing and unpacking utility for BNS</p>
-      <div style="margin-top: 10px; font-size: 12px; opacity: 0.7;">
-        <span>Python • File Processing • Utilities</span>
-      </div>
-    </div>
-  </a>
-</div>
-
-<style>
-  a:hover > div {
-    transform: translateY(-2px);
-    border-color: #58a6ff;
-    box-shadow: 0 4px 12px rgba(0, 120, 214, 0.3);
-  }
-</style>
+[![Steam Account Manager](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=Steam-Account-Manager&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=2)](https://github.com/war100ck/Steam-Account-Manager)
+[![BNS Client Packer](https://github-readme-stats.vercel.app/api/pin/?username=war100ck&repo=bns-client-packer&theme=default&hide_border=true&bg_color=30,0d1117,0078D6&title_color=fff&text_color=fff&v=10)](https://github.com/war100ck/bns-client-packer)
 
 </div>
 
