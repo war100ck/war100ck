@@ -9,7 +9,7 @@
     aria-labelledby="descId"
 >
     <title id="titleId">bns-client-packer</title>
-    <desc id="descId">A powerful patching tool for Blade & Soul (BNS) game client, adapted from Tera Client Packer by justkeepquiet. This tool automates the process of creating and managing game patches by tracking file changes, versioning, and packaging modified files into CAB archives. </desc>
+    <desc id="descId">A powerful patching tool for Blade &amp; Soul (BNS) game client, adapted from Tera Client Packer by justkeepquiet. This tool automates the process of creating and managing game patches by tracking file changes, versioning, and packaging modified files into CAB archives. </desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -84,7 +84,7 @@
 
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <text class="description" x="25" y="-5">
-            <tspan dy="1.2em" x="25">A powerful patching tool for Blade & Soul</tspan><tspan dy="1.2em" x="25">(BNS) game client, adapted from Tera Client</tspan><tspan dy="1.2em" x="25">Packer by justkeepquiet. This tool automat...</tspan>
+            <tspan dy="1.2em" x="25">A powerful patching tool for Blade &amp; Soul</tspan><tspan dy="1.2em" x="25">(BNS) game client, adapted from Tera Client</tspan><tspan dy="1.2em" x="25">Packer by justkeepquiet. This tool automat...</tspan>
         </text>
 
         <g transform="translate(30, 75)">

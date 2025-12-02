@@ -9,7 +9,7 @@
     aria-labelledby="descId"
 >
     <title id="titleId">blade-soul-game-launcher</title>
-    <desc id="descId">This project is a launcher for the game Blade & Soul, designed for connecting to a private game server. The launcher provides users with an intuitive interface for registration, login, and server connection settings.</desc>
+    <desc id="descId">This project is a launcher for the game Blade &amp; Soul, designed for connecting to a private game server. The launcher provides users with an intuitive interface for registration, login, and server connection settings.</desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -84,7 +84,7 @@
 
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <text class="description" x="25" y="-5">
-            <tspan dy="1.2em" x="25">This project is a launcher for the game Blade</tspan><tspan dy="1.2em" x="25">& Soul, designed for connecting to a private</tspan><tspan dy="1.2em" x="25">game server. The launcher provides users w...</tspan>
+            <tspan dy="1.2em" x="25">This project is a launcher for the game Blade</tspan><tspan dy="1.2em" x="25">&amp; Soul, designed for connecting to a</tspan><tspan dy="1.2em" x="25">private game server. The launcher provides...</tspan>
         </text>
 
         <g transform="translate(30, 75)">

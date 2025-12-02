@@ -9,7 +9,7 @@
     aria-labelledby="descId"
 >
     <title id="titleId">BnS-Api-Server</title>
-    <desc id="descId">The project is an API server for a private Blade & Soul game server, managing user registration, authentication, character profiles, and virtual currency transactions.</desc>
+    <desc id="descId">The project is an API server for a private Blade &amp; Soul game server, managing user registration, authentication, character profiles, and virtual currency transactions.</desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -84,7 +84,7 @@
 
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <text class="description" x="25" y="-5">
-            <tspan dy="1.2em" x="25">The project is an API server for a private</tspan><tspan dy="1.2em" x="25">Blade & Soul game server, managing user</tspan><tspan dy="1.2em" x="25">registration, authentication, character...</tspan>
+            <tspan dy="1.2em" x="25">The project is an API server for a private</tspan><tspan dy="1.2em" x="25">Blade &amp; Soul game server, managing user</tspan><tspan dy="1.2em" x="25">registration, authentication, character...</tspan>
         </text>
 
         <g transform="translate(30, 75)">

@@ -9,7 +9,7 @@
     aria-labelledby="descId"
 >
     <title id="titleId">BnS-Server-Manager</title>
-    <desc id="descId">BNS Server Manager is a tool for managing services of the Blade & Soul game server. It allows administrators and developers to effectively manage all aspects of server processes through a user-friendly graphical interface.</desc>
+    <desc id="descId">BNS Server Manager is a tool for managing services of the Blade &amp; Soul game server. It allows administrators and developers to effectively manage all aspects of server processes through a user-friendly graphical interface.</desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -84,7 +84,7 @@
 
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <text class="description" x="25" y="-5">
-            <tspan dy="1.2em" x="25">BNS Server Manager is a tool for managing</tspan><tspan dy="1.2em" x="25">services of the Blade & Soul game server. It</tspan><tspan dy="1.2em" x="25">allows administrators and developers to...</tspan>
+            <tspan dy="1.2em" x="25">BNS Server Manager is a tool for managing</tspan><tspan dy="1.2em" x="25">services of the Blade &amp; Soul game server.</tspan><tspan dy="1.2em" x="25">It allows administrators and developers to...</tspan>
         </text>
 
         <g transform="translate(30, 75)">
