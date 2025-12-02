@@ -1,59 +1,24 @@
-name: Generate Repository Badges
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    paths:
-      - 'repos.json'
-      - 'scripts/*'
-      - '.github/workflows/*'
+name: Make Badges
+on: workflow_dispatch
 
 jobs:
-  generate-badges:
+  make:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout repository
+      - name: Get code
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-      
-      - name: Create package.json (если нет)
-        run: |
-          if [ ! -f "package.json" ]; then
-            echo '{
-              "name": "badge-generator",
-              "version": "1.0.0",
-              "private": true
-            }' > package.json
-          fi
-      
-      - name: Create badges directory
+        
+      - name: Make badges folder
         run: mkdir -p badges
-      
-      - name: Run badge generator
-        run: node scripts/generate-badges.js
-      
-      - name: Check for badge changes
-        id: check-changes
+        
+      - name: Make one badge
         run: |
-          if git diff --name-only HEAD badges/ | grep -q .; then
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          fi
-      
-      - name: Commit and push badges
-        if: steps.check-changes.outputs.has_changes == 'true'
+          echo '<svg width="400" height="150"><rect width="400" height="150" fill="red"/><text x="50" y="50" fill="white">WORKING</text></svg>' > badges/test.svg
+        
+      - name: Put on github
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "bot"
+          git config user.email "bot@github.com"
           git add badges/
-          git commit -m "📦 Update repository badges [$(date +'%Y-%m-%d %H:%M')]"
+          git commit -m "add badge"
           git push
