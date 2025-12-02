@@ -1,24 +1,22 @@
-name: Make Badges
-on: workflow_dispatch
+name: Generate Badges
+on: [workflow_dispatch]
 
 jobs:
-  make:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Get code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node
+        uses: actions/setup-node@v3
         
-      - name: Make badges folder
-        run: mkdir -p badges
+      - name: Generate badges
+        run: node scripts/generate-badges.js
         
-      - name: Make one badge
+      - name: Commit badges
         run: |
-          echo '<svg width="400" height="150"><rect width="400" height="150" fill="red"/><text x="50" y="50" fill="white">WORKING</text></svg>' > badges/test.svg
-        
-      - name: Put on github
-        run: |
-          git config user.name "bot"
-          git config user.email "bot@github.com"
+          git config user.name "github"
+          git config user.email "github@github.com"
           git add badges/
-          git commit -m "add badge"
+          git commit -m "Update badges"
           git push
