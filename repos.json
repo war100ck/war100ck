@@ -1,0 +1,28 @@
+{
+  "repositories": [
+    {
+      "name": "blade-soul-game-launcher",
+      "category": "🎮 Private Server Tools"
+    },
+    {
+      "name": "BNS-Server-Manager", 
+      "category": "🎮 Private Server Tools"
+    },
+    {
+      "name": "BnS-Api-Server",
+      "category": "🌐 API Servers"
+    },
+    {
+      "name": "Server-Api-BnS-2017",
+      "category": "🌐 API Servers"
+    },
+    {
+      "name": "Steam-Account-Manager",
+      "category": "🔧 Utility Applications"
+    },
+    {
+      "name": "bns-client-packer",
+      "category": "🔧 Utility Applications"
+    }
+  ]
+}
