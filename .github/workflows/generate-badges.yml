@@ -1,13 +1,13 @@
 name: Generate Repository Badges
 on:
   schedule:
-    # Запускать каждый день в полночь
     - cron: '0 0 * * *'
-  workflow_dispatch:  # Позволяет запускать вручную
+  workflow_dispatch:
   push:
     paths:
       - 'repos.json'
-      - 'scripts/generate-badges.js'
+      - 'scripts/*'
+      - '.github/workflows/*'
 
 jobs:
   generate-badges:
@@ -23,23 +23,37 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-          cache: 'npm'
       
-      - name: Generate badges
+      - name: Create package.json (если нет)
         run: |
-          node scripts/generate-badges.js
+          if [ ! -f "package.json" ]; then
+            echo '{
+              "name": "badge-generator",
+              "version": "1.0.0",
+              "private": true
+            }' > package.json
+          fi
+      
+      - name: Create badges directory
+        run: mkdir -p badges
+      
+      - name: Run badge generator
+        run: node scripts/generate-badges.js
+      
+      - name: Check for badge changes
+        id: check-changes
+        run: |
+          if git diff --name-only HEAD badges/ | grep -q .; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
       
       - name: Commit and push badges
+        if: steps.check-changes.outputs.has_changes == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          
-          # Проверяем есть ли изменения
-          git add badges/*.svg
-          
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "📦 Update repository badges [$(date +'%Y-%m-%d %H:%M')]"
-            git push
-          fi
+          git add badges/
+          git commit -m "📦 Update repository badges [$(date +'%Y-%m-%d %H:%M')]"
+          git push
