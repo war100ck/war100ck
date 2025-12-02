@@ -2,6 +2,17 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
+// Функция для экранирования XML символов
+function escapeXml(unsafe) {
+  if (!unsafe) return '';
+  return unsafe
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
 // Функция для безопасного получения данных
 function fetchRepoData(repoName) {
   return new Promise((resolve) => {
@@ -61,13 +72,14 @@ function createFallbackData(repoName) {
   };
 }
 
-// Функция для разбивки описания на строки (как в вашем примере)
+// Функция для разбивки описания на строки
 function splitDescription(desc) {
+  const escapedDesc = escapeXml(desc);
   const lines = [];
   const maxLength = 45;
   
   let currentLine = '';
-  const words = desc.split(' ');
+  const words = escapedDesc.split(' ');
   
   for (const word of words) {
     if ((currentLine + word).length <= maxLength) {
@@ -89,7 +101,7 @@ function splitDescription(desc) {
   return lines;
 }
 
-// Генерация SVG в точности как ваш пример
+// Генерация SVG
 function generateSVG(repoName, repoData, category) {
   const lines = splitDescription(repoData.description);
   const lineSpans = lines.map((line, i) => 
@@ -107,6 +119,9 @@ function generateSVG(repoName, repoData, category) {
   };
 
   const langColor = langColors[repoData.language] || '#555555';
+  
+  const escapedName = escapeXml(repoData.name);
+  const escapedLanguage = escapeXml(repoData.language);
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg
@@ -118,8 +133,8 @@ function generateSVG(repoName, repoData, category) {
     role="img"
     aria-labelledby="descId"
 >
-    <title id="titleId">${repoData.name}</title>
-    <desc id="descId">${repoData.description}</desc>
+    <title id="titleId">${escapedName}</title>
+    <desc id="descId">${escapeXml(repoData.description)}</desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -187,7 +202,7 @@ function generateSVG(repoName, repoData, category) {
         </g>
         <g transform="translate(25, 0)">
             <text x="0" y="0" class="header" data-testid="header">
-                ${repoData.name}
+                ${escapedName}
             </text>
         </g>
     </g>
@@ -201,7 +216,7 @@ function generateSVG(repoName, repoData, category) {
             <g transform="translate(0, 0)">
                 <g data-testid="primary-lang">
                     <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="${langColor}" />
-                    <text data-testid="lang-name" class="gray" x="15">${repoData.language}</text>
+                    <text data-testid="lang-name" class="gray" x="15">${escapedLanguage}</text>
                 </g>
             </g>
         </g>
@@ -209,17 +224,51 @@ function generateSVG(repoName, repoData, category) {
 </svg>`;
 }
 
+// Функция для ручного исправления уже созданных файлов
+function fixExistingFiles() {
+  console.log('🔧 Fixing existing SVG files...');
+  
+  const files = fs.readdirSync('badges').filter(f => f.endsWith('.svg'));
+  
+  for (const file of files) {
+    try {
+      const content = fs.readFileSync(`badges/${file}`, 'utf8');
+      
+      // Экранируем амперсанды в содержимом
+      const fixedContent = content
+        .replace(/&(?!amp;|lt;|gt;|quot;|apos;|#)/g, '&amp;')
+        .replace(/Blade & Soul/g, 'Blade &amp; Soul')
+        .replace(/<desc[^>]*>([^<]*)<\/desc>/g, (match, desc) => {
+          return `<desc>${escapeXml(desc)}</desc>`;
+        })
+        .replace(/<title[^>]*>([^<]*)<\/title>/g, (match, title) => {
+          return `<title>${escapeXml(title)}</title>`;
+        });
+      
+      fs.writeFileSync(`badges/${file}`, fixedContent);
+      console.log(`✅ Fixed: ${file}`);
+    } catch (error) {
+      console.log(`❌ Error fixing ${file}: ${error.message}`);
+    }
+  }
+}
+
 // Основная функция
 async function main() {
   console.log('🚀 Starting badge generation...');
-  
-  // Читаем репозитории
-  const repos = JSON.parse(fs.readFileSync('repos.json', 'utf8')).repositories;
   
   // Создаем папку badges если нет
   if (!fs.existsSync('badges')) {
     fs.mkdirSync('badges');
   }
+  
+  // Если файлы уже существуют, сначала исправляем их
+  if (fs.existsSync('badges') && fs.readdirSync('badges').length > 0) {
+    fixExistingFiles();
+  }
+  
+  // Читаем репозитории
+  const repos = JSON.parse(fs.readFileSync('repos.json', 'utf8')).repositories;
   
   // Обрабатываем каждый репозиторий
   for (const repo of repos) {
@@ -228,8 +277,9 @@ async function main() {
       
       // Получаем данные
       const repoData = await fetchRepoData(repo.name);
+      console.log(`   Data: ${repoData.description.substring(0, 50)}...`);
       
-      // Генерируем SVG
+      // Генерация SVG с экранированием
       const svg = generateSVG(repo.name, repoData, repo.category);
       
       // Сохраняем
@@ -249,7 +299,7 @@ async function main() {
     }
   }
   
-  console.log('🎉 All badges generated!');
+  console.log('🎉 All badges generated and fixed!');
 }
 
 // Запуск
