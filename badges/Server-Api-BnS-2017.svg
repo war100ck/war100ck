@@ -9,7 +9,7 @@
     aria-labelledby="descId"
 >
     <title id="titleId">Server-Api-BnS-2017</title>
-    <desc id="descId">Legacy API for 2017 version</desc>
+    <desc id="descId">This project is an API server for a private **Blade &amp; Soul** game server, managing user registration, authentication, character profiles, and virtual currency transactions. It is specifically designed for the *2017 version* of the game.</desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -84,7 +84,7 @@
 
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <text class="description" x="25" y="-5">
-            <tspan dy="1.2em" x="25">Legacy API for 2017 version</tspan>
+            <tspan dy="1.2em" x="25">This project is an API server for a private</tspan><tspan dy="1.2em" x="25">**Blade &amp; Soul** game server, managing</tspan><tspan dy="1.2em" x="25">user registration, authentication, charact...</tspan>
         </text>
 
         <g transform="translate(30, 75)">

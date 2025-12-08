@@ -8,8 +8,8 @@
     role="img"
     aria-labelledby="descId"
 >
-    <title id="titleId">BNS-Server-Manager</title>
-    <desc id="descId">Server management tool for BnS</desc>
+    <title id="titleId">BnS-Server-Manager</title>
+    <desc id="descId">BNS Server Manager is a tool for managing services of the Blade &amp; Soul game server. It allows administrators and developers to effectively manage all aspects of server processes through a user-friendly graphical interface.</desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -77,21 +77,21 @@
         </g>
         <g transform="translate(25, 0)">
             <text x="0" y="0" class="header" data-testid="header">
-                BNS-Server-Manager
+                BnS-Server-Manager
             </text>
         </g>
     </g>
 
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <text class="description" x="25" y="-5">
-            <tspan dy="1.2em" x="25">Server management tool for BnS</tspan>
+            <tspan dy="1.2em" x="25">BNS Server Manager is a tool for managing</tspan><tspan dy="1.2em" x="25">services of the Blade &amp; Soul game server.</tspan><tspan dy="1.2em" x="25">It allows administrators and developers to...</tspan>
         </text>
 
         <g transform="translate(30, 75)">
             <g transform="translate(0, 0)">
                 <g data-testid="primary-lang">
-                    <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F1E05A" />
-                    <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
+                    <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
+                    <text data-testid="lang-name" class="gray" x="15">Python</text>
                 </g>
             </g>
         </g>
