@@ -20,20 +20,6 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## ⚠️ Important Notice
-
-<div align="center">
-
-🔒 **DISCLAIMER**: All Blade & Soul related projects in this profile are:
-- **Educational purposes only**
-- **Designed for private servers**
-- **Not affiliated with NCSoft or official Blade & Soul**
-- **Not intended for official game use**
-
-</div>
-
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 ## 🛠️ Tech Stack
 
 <div align="center">
