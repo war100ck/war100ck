@@ -64,7 +64,7 @@
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,mssql,python&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,sqlserver,python&theme=dark&perline=6" />
 </p>
 
 </div>
