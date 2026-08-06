@@ -143,8 +143,7 @@
 ### 💻 Языки программирования
 <img src="./assets/top-langs.svg" width="100%" alt="Top Languages" />
 
-### ⏰ Часы активности
-<img src="./assets/habits.svg" width="100%" alt="Coding Habits" />
+
 
 </div>
 
