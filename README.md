@@ -117,13 +117,7 @@
 ## 🗓️ 3D Contribution Calendar
 
 <div align="center">
-
-### 🌙 Dark Mode
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar Dark" />
-
-### ☀️ Light Mode
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Calendar Light" />
-
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
