@@ -64,9 +64,7 @@
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark&perline=4" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-4A9CD4?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,mssql,python&theme=dark&perline=6" />
 </p>
 
 </div>
