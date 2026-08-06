@@ -12,13 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: war100ck
-
-      - name: Customize 3D SVG colors
-        run: python3 .github/scripts/customize-3d.py
+          SETTING_JSON: .github/3d-contrib-settings.json
 
       - name: Commit & Push
         run: |
