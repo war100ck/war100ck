@@ -166,6 +166,38 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 🌟 FEATURED PROJECTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🎮 Private Server Tools:
+[![Blade & Soul Launcher](https://raw.githubusercontent.com/war100ck/war100ck/main/badges/blade-soul-game-launcher.svg)](https://github.com/war100ck/blade-soul-game-launcher)
+[![BNS Server Manager](https://raw.githubusercontent.com/war100ck/war100ck/main/badges/BNS-Server-Manager.svg)](https://github.com/war100ck/BNS-Server-Manager)
+
+### 🌐 API Servers:
+[![BNS API Server](https://raw.githubusercontent.com/war100ck/war100ck/main/badges/BnS-Api-Server.svg)](https://github.com/war100ck/BnS-Api-Server)
+[![BNS API Server 2017](https://raw.githubusercontent.com/war100ck/war100ck/main/badges/Server-Api-BnS-2017.svg)](https://github.com/war100ck/Server-Api-BnS-2017)
+
+### 🔧 Utility Applications:
+[![Steam Account Manager](https://raw.githubusercontent.com/war100ck/war100ck/main/badges/Steam-Account-Manager.svg)](https://github.com/war100ck/Steam-Account-Manager)
+[![BNS Client Packer](https://raw.githubusercontent.com/war100ck/war100ck/main/badges/bns-client-packer.svg)](https://github.com/war100ck/bns-client-packer)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 🏆 GITHUB ACHIEVEMENTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=war100ck&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=8" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 🌟 FEATURED PROJECTS                            -->
 <!--  Заменено на shields.io — работает стабильно, не падает       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 ## 🌟 Featured Projects
