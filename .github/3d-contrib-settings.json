@@ -6,7 +6,5 @@
   "strongColor": "#0078D6",
   "weakColor": "#0078D6",
   "radarColor": "#0078D6",
-  "growingAnimation": true,
-  "contribLightColors": ["#0078D6", "#005A9E", "#106EBE", "#2B88D8", "#4A9CD4"],
-  "contribDarkColors": ["#0078D6", "#005A9E", "#106EBE", "#2B88D8", "#4A9CD4"]
+  "growingAnimation": true
 }
