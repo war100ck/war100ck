@@ -97,15 +97,15 @@
 
 ### 📈 Stats & Streak
 <p>
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=war100ck&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078D6&ring=0078D6&fire=FF6B00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0078D6&sideLabels=c9d1d9&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400&_cb=2" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=war100ck&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078D6&ring=0078D6&fire=FF6B00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0078D6&sideLabels=c9d1d9&border_radius=10&cache_seconds=86400&_cb=2" />
 </p>
 
 ### 📊 Activity Graph
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true&cache_seconds=86400&_cb=2" />
 
 ### 🗣️ Top Languages
-<img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" />
+<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400&_cb=2" />
 
 </div>
 
@@ -138,16 +138,13 @@
 <div align="center">
 
 ### 🔥 Общая активность
-<img src="github-metrics/base.svg" width="100%" alt="GitHub Metrics Base" />
+<img src="./assets/stats.svg" width="100%" alt="GitHub Stats" />
 
-### 💻 Языки программирования (в динамике)
-<img src="github-metrics/languages.svg" width="100%" alt="Languages Metrics" />
+### 💻 Языки программирования
+<img src="./assets/top-langs.svg" width="100%" alt="Top Languages" />
 
-### ⏰ Часовые пояса активности
-<img src="github-metrics/habits.svg" width="100%" alt="Habits Metrics" />
-
-### 🏗️ Структура репозиториев
-<img src="github-metrics/repositories.svg" width="100%" alt="Repositories Metrics" />
+### ⏰ Часы активности
+<img src="./assets/habits.svg" width="100%" alt="Coding Habits" />
 
 </div>
 
