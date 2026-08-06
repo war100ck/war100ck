@@ -2,7 +2,7 @@ name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Каждый день в полночь
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: war100ck
+
+      # Кастомизация: прозрачный фон + неоновый синий текст
+      - name: Customize 3D SVG colors
+        run: |
+          for file in profile-3d-contrib/*.svg; do
+            # Прозрачный фон (заменяем тёмные fill фона)
+            sed -i 's/fill="#0d1117"/fill="none"/g' "$file"
+            sed -i 's/fill="#161b22"/fill="none"/g' "$file"
+            sed -i 's/fill="#000000"/fill="none"/g' "$file"
+            sed -i 's/fill="#000"/fill="none"/g' "$file"
+
+            # Неоновый синий текст (как везде в профиле)
+            sed -i 's/fill="#ffffff"/fill="#0078D6"/g' "$file"
+            sed -i 's/fill="#fff"/fill="#0078D6"/g' "$file"
+            sed -i 's/fill="#c9d1d9"/fill="#0078D6"/g' "$file"
+            sed -i 's/fill="#e6edf3"/fill="#0078D6"/g' "$file"
+          done
 
       - name: Commit & Push
         run: |
