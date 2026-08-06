@@ -97,15 +97,15 @@
 
 ### 📈 Stats & Streak
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=war100ck&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078D6&ring=0078D6&fire=FF6B00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0078D6&sideLabels=c9d1d9&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=war100ck&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078D6&ring=0078D6&fire=FF6B00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0078D6&sideLabels=c9d1d9&border_radius=10" />
 </p>
 
 ### 📊 Activity Graph
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true" />
 
 ### 🗣️ Top Languages
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&text_color=c9d1d9&langs_count=8&hide=html,css&border_radius=10" />
+<img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" />
 
 </div>
 
