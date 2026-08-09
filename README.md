@@ -97,11 +97,11 @@
 ### 📈 Stats & Streak
 <p>
   <img width="49%" src="./assets/stats.svg" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=war100ck&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078D6&ring=0078D6&fire=FF6B00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0078D6&sideLabels=c9d1d9&border_radius=10&cache_seconds=86400&_cb=2" />
+  <img width="49%" src="./assets/streak.svg" />
 </p>
 
 ### 📊 Activity Graph
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true&cache_seconds=86400&_cb=2" />
+<img width="98%" src="./assets/activity.svg" />
 
 ### 🗣️ Top Languages
 <img width="60%" src="./assets/top-langs.svg" />
