@@ -96,15 +96,15 @@
 
 ### 📈 Stats & Streak
 <p>
-  <img width="49%" src="./assets/stats.svg" />
-  <img width="49%" src="./assets/streak.svg" />
+  <img width="49%" src="./assets/github-stats.svg" />
+  <img width="49%" src="./assets/github-streak.svg" />
 </p>
 
 ### 📊 Activity Graph
-<img width="98%" src="./assets/activity.svg" />
+<img width="98%" src="./assets/github-activity.svg" />
 
 ### 🗣️ Top Languages
-<img width="60%" src="./assets/top-langs.svg" />
+<img width="60%" src="./assets/github-top-langs.svg" />
 
 </div>
 
@@ -122,25 +122,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              📈 GITHUB METRICS (Расширенная аналитика)          -->
-<!--  Настройка: https://github.com/lowlighter/metrics               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 📈 GitHub Metrics
 
-<div align="center">
-
-### 🔥 Общая активность
-<img src="./assets/stats.svg" width="100%" alt="GitHub Stats" />
-
-### 💻 Языки программирования
-<img src="./assets/top-langs.svg" width="100%" alt="Top Languages" />
-
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 🏆 GITHUB ACHIEVEMENTS                          -->

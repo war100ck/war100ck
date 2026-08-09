@@ -1,0 +1,52 @@
+name: Generate GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Clone github-readme-stats
+        run: |
+          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/github-readme-stats
+          cd /tmp/github-readme-stats
+          npm install
+
+      - name: Generate Stats Card
+        run: |
+          mkdir -p assets
+          cd /tmp/github-readme-stats
+          # Генерируем stats SVG через API
+          curl -sL "https://github-readme-stats.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10"             > $GITHUB_WORKSPACE/assets/github-stats.svg || true
+
+      - name: Generate Top Langs Card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&text_color=c9d1d9&langs_count=8&border_radius=10"             > $GITHUB_WORKSPACE/assets/github-top-langs.svg || true
+
+      - name: Generate Streak Stats
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=war100ck&theme=tokyonight&hide_border=true&background=0D1117&stroke=0078D6&ring=0078D6&fire=FF6B00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=0078D6&sideLabels=C9D1D9"             > $GITHUB_WORKSPACE/assets/github-streak.svg || true
+
+      - name: Generate Activity Graph
+        run: |
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true"             > $GITHUB_WORKSPACE/assets/github-activity.svg || true
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/
+          git commit -m "Update GitHub stats cards" || echo "No changes"
+          git push
