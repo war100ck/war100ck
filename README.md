@@ -127,7 +127,7 @@
 <div align="center">
 
 ### 🔥 Общая активность
-<img src="./assets/stats.svg" width="100%" alt="GitHub Stats" />
+<img src="./assets/github-stats.svg" width="100%" alt="GitHub Stats" />
 
 ### 💻 Языки программирования
 <img src="./assets/top-langs.svg" width="100%" alt="Top Languages" />
