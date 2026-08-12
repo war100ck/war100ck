@@ -96,7 +96,7 @@
 
 ### 📈 Stats & Streak
 <p>
-  <img width="49%" src="./github-metrics/repositories.svg" />
+<img width="49%" src="./github-metrics/repositories.svg" />
 <img width="49%" src="./assets/streak.svg" />
 </p>
 
