@@ -96,7 +96,7 @@
 
 ### 📈 Stats & Streak
 <p>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400&_cb=2" />
+  <img width="49%" src="./github-metrics/repositories.svg" />
 <img width="49%" src="./assets/streak.svg" />
 </p>
 
