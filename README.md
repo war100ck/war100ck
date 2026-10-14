@@ -19,7 +19,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://github.com/war100ck">
-    <img src="https://profile-counter-drab.vercel.app/api/views?id=war100ck&label=PROFILE%20VIEWS&leftColor=0d1117&rightColor=0078D6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://profile-counter-drab.vercel.app/api/views?id=war100ck&label=PROFILE%20VIEWS&leftColor=0d1117&rightColor=0078D6&style=for-the-badge&logo=github" alt="Profile Views" />
   </a>
   <a href="https://github.com/war100ck?tab=followers">
     <img src="https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github&color=0078D6&labelColor=0d1117" alt="GitHub followers" />
