@@ -19,7 +19,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://github.com/war100ck">
-    <img src="https://komarev.com/ghpvc/?username=war100ck&color=0078D6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://profile-counter-drab.vercel.app/api/views?id=war100ck&label=PROFILE%20VIEWS&leftColor=0d1117&rightColor=0078D6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/war100ck?tab=followers">
     <img src="https://img.shields.io/github/followers/war100ck?style=for-the-badge&logo=github&color=0078D6&labelColor=0d1117" alt="GitHub followers" />
@@ -96,12 +96,12 @@
 
 ### 📈 Stats & Streak
 <p>
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400&_cb=2" />
+<img width="49%" src="https://readme-stats-tan-ten.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400&_cb=3" />
 <img width="49%" src="./assets/streak.svg" />
 </p>
 
 ### 📊 Activity Graph
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true&cache_seconds=86400&_cb=2" />
+<img width="98%" src="https://activity-graph-six.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true&cache_seconds=86400&_cb=3" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

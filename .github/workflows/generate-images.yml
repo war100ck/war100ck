@@ -17,19 +17,19 @@ jobs:
 
       - run: mkdir -p assets
 
-      # 1. GitHub Stats (sigma-five — более стабильное зеркало)
+      # 1. GitHub Stats (собственный инстанс на Vercel)
       - name: Download GitHub Stats
         run: |
-          curl -sL --retry 3 --max-time 30             "https://github-readme-stats-sigma-five.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400"             > assets/stats.svg || true
+          curl -sL --retry 3 --max-time 30             "https://readme-stats-tan-ten.vercel.app/api?username=war100ck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&icon_color=0078D6&text_color=c9d1d9&rank_icon=github&border_radius=10&cache_seconds=86400"             > assets/stats.svg || true
           if [ ! -s assets/stats.svg ] || grep -qi "error\|unexpected\|something went wrong\|maximum retries" assets/stats.svg; then
             echo "Stats download failed, keeping old file"
             git checkout assets/stats.svg 2>/dev/null || true
           fi
 
-      # 2. Top Languages (sigma-five)
+      # 2. Top Languages (собственный инстанс на Vercel)
       - name: Download Top Languages
         run: |
-          curl -sL --retry 3 --max-time 30             "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"             > assets/top-langs.svg || true
+          curl -sL --retry 3 --max-time 30             "https://readme-stats-tan-ten.vercel.app/api/top-langs/?username=war100ck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D6&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"             > assets/top-langs.svg || true
           if [ ! -s assets/top-langs.svg ] || grep -qi "error\|unexpected\|something went wrong\|maximum retries" assets/top-langs.svg; then
             echo "Top langs download failed, keeping old file"
             git checkout assets/top-langs.svg 2>/dev/null || true
@@ -47,7 +47,7 @@ jobs:
       # 4. Activity Graph
       - name: Download Activity Graph
         run: |
-          curl -sL --retry 3 --max-time 30             "https://github-readme-activity-graph.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true"             > assets/activity.svg || true
+          curl -sL --retry 3 --max-time 30             "https://activity-graph-six.vercel.app/graph?username=war100ck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D6&line=0078D6&point=FF6B00&area=true"             > assets/activity.svg || true
           if [ ! -s assets/activity.svg ] || grep -qi "error\|unexpected\|something went wrong" assets/activity.svg; then
             echo "Activity graph download failed, keeping old file"
             git checkout assets/activity.svg 2>/dev/null || true
