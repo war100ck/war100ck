@@ -9,7 +9,7 @@
     aria-labelledby="descId"
 >
     <title id="titleId">Steam-Account-Manager</title>
-    <desc id="descId">Python/Tkinter app for Steam accounts</desc>
+    <desc id="descId">Steam Account Manager - A Python/Tkinter desktop application for managing multiple Steam accounts, generating 2FA codes, and viewing account information with an intuitive interface.</desc>
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -84,14 +84,14 @@
 
     <g data-testid="main-card-body" transform="translate(0, 55)">
         <text class="description" x="25" y="-5">
-            <tspan dy="1.2em" x="25">Python/Tkinter app for Steam accounts</tspan>
+            <tspan dy="1.2em" x="25">Steam Account Manager - A Python/Tkinter</tspan><tspan dy="1.2em" x="25">desktop application for managing multiple</tspan><tspan dy="1.2em" x="25">Steam accounts, generating 2FA codes, and...</tspan>
         </text>
 
         <g transform="translate(30, 75)">
             <g transform="translate(0, 0)">
                 <g data-testid="primary-lang">
-                    <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F1E05A" />
-                    <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
+                    <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
+                    <text data-testid="lang-name" class="gray" x="15">Python</text>
                 </g>
             </g>
         </g>
